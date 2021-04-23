@@ -97,7 +97,6 @@ public class ControladorInicio {
                 System.out.println(temporal);
             }
         } else {
-            log.info("no la ");
             System.out.println("sin considencia ojo!!");
 
         }
